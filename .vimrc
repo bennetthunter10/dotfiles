@@ -1,3 +1,6 @@
+set number                      " Show line numbers
+set relativenumber              " Show relative line numbers
+
 call plug#begin('~/.vim/plugged')
 
 " Add your plugins here
