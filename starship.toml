@@ -14,6 +14,8 @@ $php\
 [](fg:#212736 bg:#1d2230)\
 $time\
 [ ](fg:#1d2230)\
+$hostname\
+[  ](bg:#a3aed2 fg:#090c0c)\
 \n$character"""
 
 [hostname]
